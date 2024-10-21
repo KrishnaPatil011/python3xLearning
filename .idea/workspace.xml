@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d01519c2-156e-4d03-86f5-432ed9382613" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python3xLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python3xLearning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/21102024/lab001.py" beforeDir="false" afterPath="$PROJECT_DIR$/21102024/lab001.py" afterDir="false" />
+    <list default="true" id="d01519c2-156e-4d03-86f5-432ed9382613" name="Changes" comment="Hello word">
+      <change afterPath="$PROJECT_DIR$/21102024/lab002.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +22,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "KrishnaPatil011"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/KrishnaPatil011/python3xLearning.git",
@@ -39,6 +46,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.lab001.executor": "Run",
+    "Python.lab002.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -59,6 +67,19 @@
       <option name="presentableId" value="Default" />
       <updated>1729525598896</updated>
     </task>
+    <task id="LOCAL-00001" summary="Hello word">
+      <option name="closed" value="true" />
+      <created>1729525967046</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729525967046</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Hello word" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello word" />
   </component>
 </project>
